@@ -1,6 +1,12 @@
-### Hi there 👋
+#### Hi there 👋! Welcome !
 
-<!--
+I'm currently working as Research Associate at *Centre for Advanced Financial Research and Learning* at RBI, India. My current research and work responsibility is primarily around Macroeconomics and Finance.  
+
+🌱 I am specially interested in research at the cross-section of macroeconomics and finance. 
+📫 How to reach me: surajdhunna@gmail.com
+
+
+<!-- 
 **iamsurajkumar/iamsurajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
