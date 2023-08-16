@@ -1,9 +1,23 @@
-#### Hi there 👋! Welcome !
+#### Hi 👋! Welcome !
 
-I'm currently working as Research Associate at *Centre for Advanced Financial Research and Learning* at RBI, India. My current research and work responsibility is primarily around Macroeconomics and Finance.  
+- I'm currently working as Research Associate at *Centre for Advanced Financial Research and Learning* at RBI, India. My current research and work responsibility is primarily around Macroeconomics and Finance.  
+- 🌱 I am specially interested in research at the cross-section of macroeconomics and finance.
+- 📫 How to reach me: surajdhunna@gmail.com
+- [Personal Website](https://surajkumar.me/)
+- [LinkedIn](https://www.linkedin.com/in/iamsurajkumar/)
 
-🌱 I am specially interested in research at the cross-section of macroeconomics and finance. 
-📫 How to reach me: surajdhunna@gmail.com
+
+You can refer to me some repositories below
+
+1. Empirical Macroeconomics: In this repository, I have hosted of some my code related to local projections, VARs, etc. I will add further to this repository in the future. 
+
+2. Linear Regression Model Validation: This contains some useful code to run and benchmark multiple regression models at once, and also some typical validation steps in regression models.
+
+3. Credit Suisse FinSTATS competition: It contains the details of the mixed integer programming model to solve for the optimal portfolio problem that I have built for a competition at DSE for Credit Suisse.
+
+4. American Express Analyze This 2017: It contains the code that I wrote while participating in the competition at DSE.  
+
+
 
 
 <!-- 
