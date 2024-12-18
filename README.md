@@ -11,7 +11,7 @@ I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With extensive 
 
 ### 📫 Connect With Me
 - 📄 [CV](https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/ETI3yBDfVwdMvKs4r9yA8ZwB9MI43DupSmP5ewJKED2OAw?e=2cMdWw)
-- ✉️ mailto:suraj.kumar@bc.edu
+- ✉️ [E-mail](mailto:suraj.kumar@bc.edu)
 - 🌐 [Website](https://surajkumar.me)
 - 👔 [LinkedIn](https://www.linkedin.com/in/iamsurajkumar)
 - 🐦 [Twitter](https://twitter.com/the_suraj_kumar)
