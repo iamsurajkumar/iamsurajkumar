@@ -14,7 +14,7 @@ I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With extensive 
 - ✉️ suraj.kumar@bc.edu
 - 🌐 [Website](https://surajkumar.me)
 - 👔 [LinkedIn](https://www.linkedin.com/in/iamsurajkumar)
-- 🐦 [Twitter](https://twitter.com/iamsurajkumar)
+- 🐦 [Twitter](https://twitter.com/the_suraj_kumar)
 
 ### 🚀 My Cool Projects
 Here are some of my favorite repositories:
