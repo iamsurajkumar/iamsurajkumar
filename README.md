@@ -1,25 +1,35 @@
 #### Hi 👋!
 
-- I'm currently working as Research Associate at *Centre for Advanced Financial Research and Learning* at RBI, India. 
-- 🌱 I am specially interested in research at the cross-section of macroeconomics and finance.
-- 📫 How to reach me: surajdhunna@gmail.com
-- [Personal Website](https://surajkumar.me/)
-- [LinkedIn](https://www.linkedin.com/in/iamsurajkumar/)
+Hi there! I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With over 5 years of industry experience, I've worked as a Research Associate at Reserve Bank of India, an Economics Analyst at Goldman Sachs and a Data Analyst at American Express and Credit Suisse. I'm passionate about macroeconomic analysis, time-series econometrics, and financial research.
 
 
-You can refer to me some of my repositories below:
 
-1. [Empirical Macroeconomics](https://github.com/iamsurajkumar/Empirical-Macroeconomics): In this repository, I have hosted of some my code related to local projections, VARs, etc. I will add further to this repository in the future. 
+### 📫 Let's Connect!
+- Email me at: suraj.kumar@bc.edu or surajdhunna@gmail.com
+- Check out my [Personal Website](https://surajkumar.me/)
+- Connect on [LinkedIn](https://www.linkedin.com/in/iamsurajkumar/)
+- Follow me on [Twitter](https://twitter.com/iamsurajkumar)
 
-2. [Linear Regression Model Validation](https://github.com/iamsurajkumar/Linear-Regression-Model-Validation): This contains some useful code to run and benchmark multiple regression models at once, and also some typical validation steps in regression models.
+### 🚀 My Cool Projects
+Here are some of my favorite repositories:
 
-3. [Two-state one control bellman equation model for lucas economy](https://github.com/iamsurajkumar/Dynamic_Programming_Squared_Model/blob/master/Two-State-and-One-Control-Bellman-Equation-Model.ipynb)
+1. 📊 [Empirical Macroeconomics](https://github.com/iamsurajkumar/Empirical-Macroeconomics)
+    - Collection of code for local projections, VARs, and other macro tools
+    - Continuously adding new content!
 
-4. [Credit Suisse FinSTATS competition](https://github.com/iamsurajkumar/Credit_Suisse_FinSTATS_Competition): It contains the details of the mixed integer programming model to solve for the optimal portfolio problem that I have built for a competition at DSE for Credit Suisse.
+2. 📈 [Linear Regression Model Validation](https://github.com/iamsurajkumar/Linear-Regression-Model-Validation)
+    - Tools for running and benchmarking multiple regression models
+    - Comprehensive validation techniques
 
-5. [American Express Analyze This 2017](https://github.com/iamsurajkumar/American_Express_Analyze_This_2017): It contains the code that I wrote while participating in the competition at DSE.  
+3. 💡 [Lucas Economy Model](https://github.com/iamsurajkumar/Dynamic_Programming_Squared_Model/blob/master/Two-State-and-One-Control-Bellman-Equation-Model.ipynb)
+    - Two-state one control bellman equation implementation
 
+4. 💼 [Credit Suisse FinSTATS](https://github.com/iamsurajkumar/Credit_Suisse_FinSTATS_Competition)
+    - Mixed integer programming for optimal portfolio allocation
+    - Built for DSE competition
 
+5. 🏆 [AmEx Analyze This 2017](https://github.com/iamsurajkumar/American_Express_Analyze_This_2017)
+    - Competition code and analysis
 
 
 <!-- 
