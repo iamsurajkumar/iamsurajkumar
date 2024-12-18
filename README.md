@@ -1,14 +1,20 @@
 #### Hi 👋!
 
-Hi there! I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With over 5 years of industry experience, I've worked as a Research Associate at Reserve Bank of India, an Economics Analyst at Goldman Sachs and a Data Analyst at American Express and Credit Suisse. I'm passionate about macroeconomic analysis, time-series econometrics, and financial research.
+I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With extensive industry experience spanning Goldman Sachs, Reserve Bank of India, American Express, and Credit Suisse, I focus on macroeconomic analysis, time-series econometrics, and financial research.
 
+### 🌟 About Me
+- 📚 Ph.D. Economics, Boston College
+- 🏦 Economic Analyst, Goldman Sachs
+- 💼 Research Associate, Reserve Bank of India
+- 📊 Expertise: Macroeconomics & Time-series Analysis
+- 🎯 Research: Empirical Methods & Economic Modeling
 
-
-### 📫 Let's Connect!
-- Email me at: suraj.kumar@bc.edu or surajdhunna@gmail.com
-- Check out my [Personal Website](https://surajkumar.me/)
-- Connect on [LinkedIn](https://www.linkedin.com/in/iamsurajkumar/)
-- Follow me on [Twitter](https://twitter.com/iamsurajkumar)
+### 📫 Connect With Me
+- 📄 [CV](https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/ETI3yBDfVwdMvKs4r9yA8ZwB9MI43DupSmP5ewJKED2OAw?e=2cMdWw)
+- ✉️ suraj.kumar@bc.edu
+- 🌐 [Website](https://surajkumar.me)
+- 👔 [LinkedIn](https://www.linkedin.com/in/iamsurajkumar)
+- 🐦 [Twitter](https://twitter.com/iamsurajkumar)
 
 ### 🚀 My Cool Projects
 Here are some of my favorite repositories:
